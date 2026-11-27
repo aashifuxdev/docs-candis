@@ -1,0 +1,13 @@
+{
+  "serializerVersion": 1,
+  "languages": [{ "code": "en", "default": true }],
+  "nodes": [
+    {
+      "paths": [{ "langs": ["en"], "path": "getting-started/README.md" }],
+      "children": [
+        { "paths": [{ "langs": ["en"], "path": "getting-started/introduction.md" }] },
+        { "paths": [{ "langs": ["en"], "path": "getting-started/quickstart.md" }] }
+      ]
+    }
+  ]
+}
